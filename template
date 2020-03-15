@@ -1,0 +1,10 @@
+import React from "react";
+
+export class NavBar extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+  render() {
+    return <div>Hello</div>;
+  }
+}
